@@ -19,6 +19,14 @@ CModule::IncludeModule('crm');
 \Bitrix\Main\Loader::includeModule('iblock');
 \Bitrix\Main\Loader::includeModule('catalog');
 
+// Add assets (JS/CSS)
+$GLOBALS['APPLICATION']->SetAdditionalCss('/link/to/css');
+$GLOBALS['APPLICATION']->SetAdditionalJS('/link/to/js');
+
+// Add assets D7 (JS/CSS)
+\Bitrix\Main\Page\Asset::getInstance()->addCss('/path/to/style.css');
+\Bitrix\Main\Page\Asset::getInstance()->addJs('/path/to/script.js');
+
 // Header show methods
 $GLOBALS['APPLICATION']->ShowTitle();
 $GLOBALS['APPLICATION']->ShowHead();
@@ -29,14 +37,6 @@ $GLOBALS['APPLICATION']->ShowHeadStrings();
 $GLOBALS['APPLICATION']->ShowHeadScripts();
 $GLOBALS['APPLICATION']->ShowPanel();
 $GLOBALS['APPLICATION']->RestartBuffer();
-
-// Add assets (JS/CSS)
-$GLOBALS['APPLICATION']->SetAdditionalCss('/link/to/css');
-$GLOBALS['APPLICATION']->SetAdditionalJS('/link/to/js');
-
-// Add assets D7 (JS/CSS)
-\Bitrix\Main\Page\Asset::getInstance()->addCss('/path/to/style.css');
-\Bitrix\Main\Page\Asset::getInstance()->addJs('/path/to/script.js');
 
 ###
 ### User
