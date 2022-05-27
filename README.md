@@ -1,4 +1,4 @@
-# Btrix & Bitrix24 "documentation"
+# Bitrix & Bitrix24 "documentation"
 
 "Документация" по bitrix и bitrix24:
 Самые часто используемые функции bitrix с прммерами и параметрами вызова!
