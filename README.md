@@ -3,8 +3,8 @@
 Самые часто используемые функции bitrix с прммерами и параметрами
 
 ### Модули:
-- [D7 orm](/iTeeLion/bitrix-doc/)
-- [Main (главный модуль)](/iTeeLion/bitrix-doc/)
+- [D7 orm](/Snippets/main.php)
+- [Main (главный модуль)](/Snippets/main.php)
 - [Iblock (работа с инфоблоками)](/iTeeLion/bitrix-doc/)
 - [User (работа с пользователями)](/iTeeLion/bitrix-doc/)
 - [Email (работа с почтой)](/iTeeLion/bitrix-doc/)
