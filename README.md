@@ -7,7 +7,6 @@
 - [D7 orm](/snippets/d7orm.php)
 - [Main (главный модуль)](/snippets/main.php)
 - [Iblock (работа с инфоблоками)](/snippets/iblock.php)
-- [User (работа с пользователями)](/snippets/user.php)
 - [Email (работа с почтой)](/snippets/email.php)
 - [File (работа с файлами)](/snippets/file.php)
 
