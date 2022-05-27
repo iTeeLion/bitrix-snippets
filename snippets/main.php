@@ -75,4 +75,3 @@ $USER_FIELD_MANAGER->Update($EntityTable::getUFId(), $ID, $arFields);
 ###
 ### Events
 ###
-
