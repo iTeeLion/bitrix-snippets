@@ -11,6 +11,6 @@ $CrmStatusTable = new \Bitrix\Crm\StatusTable();
 // получить информацию по ИНН через bitrix (доступно только с оплаченной лицензией)
 if (\Bitrix\Main\Loader::includeModule('socialservices')) {
     $client = new \Bitrix\socialservices\properties\Client;
-    $data = $client->getByInn('3907026976');
-    vardmp($data);
+    $data = $client->getByInn($inn);
+    var_dump($data);
 }
