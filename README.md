@@ -14,7 +14,7 @@
 
 ### Bitrix24 и CRM:
 - [B24 (общее по bitrix 24)](/snippets/b24.php)
-- [Crm (общее по crn)](/snippets/crm/crm.php)
+- [Crm (общее по crm)](/snippets/crm/crm.php)
 - [Lead (работа с лидами)](/snippets/crm/lead.php)
 - [Deal (работа со сделками)](/snippets/crm/deal.php)
 - [Invoice (работа со счетами)](/snippets/crm/invoice.php)
