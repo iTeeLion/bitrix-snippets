@@ -28,6 +28,7 @@
 - [PHP](https://gist.github.com/iTeeLion/7a1e41d9645a8ab5e7f3d6c836d3f88f)
 - [JS](https://gist.github.com/iTeeLion/9d74ce04eecebd97539328256deb6d7d)
 - [jQuey](https://gist.github.com/iTeeLion/c1369bb00e1b98fdf38caf125d173e88)
+- [.htaccess](https://gist.github.com/iTeeLion/ecbe1109ac52326848b6a6dae6bc0be7)
 
 p.s. Репозиторий нельзя использовать как реальную документацию (именно по этому это слово и написано в кавычках). Тут собрано все то, чем я сам активно пользуюсь, и куда полезно время от времени подглядывать.
 
