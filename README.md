@@ -10,6 +10,7 @@
 - [Iblock (работа с инфоблоками)](/snippets/iblock.php)
 - [Email (работа с почтой)](/snippets/email.php)
 - [File (работа с файлами)](/snippets/file.php)
+- [BizProc (бизнес процессы)](/snippets/bizproc.php)
 
 ### Bitrix24 и CRM:
 - [B24 (общее по bitrix 24)](/snippets/b24.php)
