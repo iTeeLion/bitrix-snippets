@@ -1,8 +1,6 @@
-# Bitrix & Bitrix24 "documentation"
+# Bitrix & Bitrix24 code examples
 
-## Документация в прмерах по bitrix и bitrix24
-
-Самые часто используемые функции bitrix с примерами и параметрами вызова!
+## Примеры кода для bitrix и bitrix24
 
 ### Модули:
 - [D7 orm](/snippets/d7orm.php)
@@ -30,7 +28,5 @@
 - [jQuey](https://gist.github.com/iTeeLion/c1369bb00e1b98fdf38caf125d173e88)
 - [.htaccess](https://gist.github.com/iTeeLion/ecbe1109ac52326848b6a6dae6bc0be7)
 - [GuzzleHttp](https://gist.github.com/iTeeLion/ebe82240bc4431a5a3ef5c8fe3a8aae9)
-
-p.s. Репозиторий нельзя использовать как реальную документацию (именно по этому это слово и написано в кавычках). Тут собрано все то, чем я сам активно пользуюсь, и куда полезно время от времени подглядывать.
 
 Enjoy usage ;)
