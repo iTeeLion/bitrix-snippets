@@ -6,7 +6,7 @@
 - [D7 orm](/snippets/d7orm.php)
 - [Main (главный модуль)](/snippets/main.php)
 - [Iblock (работа с инфоблоками)](/snippets/iblock.php)
-- [Email (работа с почтой)](/snippets/email.php)
+- [Email (работа с почтой)](/snippets/mail.php)
 - [File (работа с файлами)](/snippets/file.php)
 - [BizProc (бизнес процессы)](/snippets/bizproc.php)
 
@@ -19,7 +19,7 @@
 - [Company (работа с компаниями)](/snippets/crm/company.php)
 - [Contact (работа с контактами)](/snippets/crm/contact.php)
 - [Requisite (работа с реквизитами)](/snippets/crm/requisite.php)
-- [FieldMulti (работа с монежственными полями телефоны/почты)](/snippets/crm/fieldmulti.php)
+- [FieldMulti (работа с монежственными полями телефоны/почты)](/snippets/crm/fieldMulti.php)
 - [Timeline (работа с таймлайном сущностей)](/snippets/crm/timeline.php)
 
 ### Сниппеты (часто используемые конструкции)
