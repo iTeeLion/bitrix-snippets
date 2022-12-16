@@ -23,3 +23,23 @@ $arPermissions['n0'] = [
     'TASK_ID' => 51,
 ];
 $ElementRights->SetRights($arPermissions);
+
+// Get ENUM (список)
+$rsUser = CUser::GetList($by, $order,
+    array(
+        "ID" => $USER->GetID(),
+    ),
+    array(
+        "SELECT" => array(
+            "UF_GENDER",
+        ),
+    )
+);
+if($arUser = $rsUser->Fetch())
+{
+    $rsGender = CUserFieldEnum::GetList(array(), array(
+        "ID" => $arUser["UF_GENDER"],
+    ));
+    if($arGender = $rsGender->GetNext())
+        echo $arGender["VALUE"];
+}
