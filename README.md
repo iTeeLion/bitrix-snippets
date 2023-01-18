@@ -20,7 +20,7 @@
 - [FieldMulti (работа с монежственными полями телефоны/почты)](/snippets/crm/fieldMulti.php)
 - [Timeline (работа с таймлайном сущностей)](/snippets/crm/timeline.php)
 
-### Сниппеты (часто используемые конструкции)
+### Другое
 - [PHP](https://gist.github.com/iTeeLion/7a1e41d9645a8ab5e7f3d6c836d3f88f)
 - [JS](https://gist.github.com/iTeeLion/9d74ce04eecebd97539328256deb6d7d)
 - [jQuey](https://gist.github.com/iTeeLion/c1369bb00e1b98fdf38caf125d173e88)
