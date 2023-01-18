@@ -1,6 +1,4 @@
-# Bitrix & Bitrix24 code examples
-
-## Примеры кода для bitrix и bitrix24
+# Примеры кода для Битрикс 24 / Bitrix 24 code examples
 
 ### Модули:
 - [D7 orm](/snippets/d7orm.php)
