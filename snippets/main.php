@@ -26,6 +26,7 @@ $GLOBALS['APPLICATION']->SetAdditionalJS('/link/to/js');
 // Add assets D7 (JS/CSS)
 \Bitrix\Main\Page\Asset::getInstance()->addCss('/path/to/style.css');
 \Bitrix\Main\Page\Asset::getInstance()->addJs('/path/to/script.js');
+\Bitrix\Main\Page\Asset::getInstance()->addString('some code');
 
 // Header show methods
 $GLOBALS['APPLICATION']->ShowTitle();
