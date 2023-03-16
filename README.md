@@ -1,6 +1,6 @@
-# Примеры кода для Битрикс 24 / Bitrix 24 code examples
+# Bitrix 24 code examples / Примеры кода для Битрикс 24
 
-### Модули:
+### Modules:
 - [D7 orm](/snippets/d7orm.php)
 - [Main (главный модуль)](/snippets/main.php)
 - [Iblock (работа с инфоблоками)](/snippets/iblock.php)
@@ -8,7 +8,7 @@
 - [File (работа с файлами)](/snippets/file.php)
 - [BizProc (бизнес процессы)](/snippets/bizproc.php)
 
-### Bitrix24 и CRM:
+### Bitrix24 & CRM:
 - [B24 (общее по bitrix 24)](/snippets/b24.php)
 - [Crm (общее по crm)](/snippets/crm/crm.php)
 - [Lead (работа с лидами)](/snippets/crm/lead.php)
@@ -20,7 +20,7 @@
 - [FieldMulti (работа с монежственными полями телефоны/почты)](/snippets/crm/fieldMulti.php)
 - [Timeline (работа с таймлайном сущностей)](/snippets/crm/timeline.php)
 
-### Другое
+### Other
 - [PHP](https://gist.github.com/iTeeLion/7a1e41d9645a8ab5e7f3d6c836d3f88f)
 - [JS](https://gist.github.com/iTeeLion/9d74ce04eecebd97539328256deb6d7d)
 - [jQuey](https://gist.github.com/iTeeLion/c1369bb00e1b98fdf38caf125d173e88)
